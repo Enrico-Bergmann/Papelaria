@@ -1,6 +1,6 @@
 # Papelaria
 
-## Começando 🚀🚀
+## Começando 🚀
 
 Site desenvolvido em aula, no curso front-end VnW
 
@@ -12,3 +12,5 @@ Começamos construindo o corpo do site usando HTML e logo fazendo as estilizaç�
 ```
 Virtual Studio Code
 ```
+
+## Muito Obrigado! Aceito sugestões. 💻❤️
